@@ -30,7 +30,7 @@
                             </ul>
 
                             <p>
-                                {{ $article->content }}
+                                {!! $article->content  !!}
                             </p>
 
                             <div class="blockquote bg-dark my-5">
