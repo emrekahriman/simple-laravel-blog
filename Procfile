@@ -1,1 +1,1 @@
-web: vendor/bin/laravelblog-yek public/
+web: vendor/bin/heroku-php-apache2 public/
